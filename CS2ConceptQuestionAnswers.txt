@@ -1,0 +1,20 @@
+Answers for coneptual questions on Antra SEP C# Assignment 2
+
+1. You should use a string type when a string's value won't change unless completely reassigned.
+A StringBuilder should be used if a string needs to add/delete new characters or substrings
+on the fly.
+
+2. The Array class is the base class for all other types of arrays.
+
+3. The base Array class contains a built-in sort method, Array.Sort() which will re-order
+in place the values of an array.
+
+4. Array.Length gets the total number of elements in an array
+
+5. No, multiple data types can't be stored in an System.Array object. All elements must be
+of the same data type.
+
+6. System.Array.CopyTo() will copy the contents of the currently in-use one dimensional array
+to a specified target one-dimensional array starting at a particular index in the target array.
+System.Array.Clone() will create a copy, specfically a shallow copy, of an existing array.
+The clone will contain the same values of the original array.

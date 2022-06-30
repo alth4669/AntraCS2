@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\bin\Debug\net6.0\CS2.exe
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\bin\Debug\net6.0\CS2.deps.json
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\bin\Debug\net6.0\CS2.runtimeconfig.json
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\bin\Debug\net6.0\CS2.dll
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\bin\Debug\net6.0\CS2.pdb
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\obj\Debug\net6.0\CS2.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\obj\Debug\net6.0\CS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\obj\Debug\net6.0\CS2.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\obj\Debug\net6.0\CS2.AssemblyInfo.cs
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\obj\Debug\net6.0\CS2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\obj\Debug\net6.0\CS2.dll
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\obj\Debug\net6.0\refint\CS2.dll
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\obj\Debug\net6.0\CS2.pdb
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\obj\Debug\net6.0\CS2.genruntimeconfig.cache
+C:\Users\Alex\source\repos\AntraCS2\CS2\CS2\obj\Debug\net6.0\ref\CS2.dll
